@@ -22,5 +22,5 @@ Este projeto foi desenvolvido como um exercício de lógica de programação em 
 * **Lógica de Jogo:** Loop principal com verificação de input (polling), atualização de física e renderização frame a frame.
 *Desenvolvido para a disciplina de SSC0513Organizacao e Arquitetura de Computadores.*
 
-## Jogo desenvolvido para o processador do ICMC https://github.com/simoesusp/Processador-ICMC
-## Para instalar o simulador e rodar o jogo acesse este link para Linux  https://github.com/simoesusp/Processador-ICMC/tree/master/Simple_Simulator e esse para Windows https://github.com/miguel-filippo/Simple_Simulator_Windows/tree/v1.0.0
+ Jogo desenvolvido para o processador do ICMC https://github.com/simoesusp/Processador-ICMC
+ Para instalar o simulador e rodar o jogo acesse este link para Linux  https://github.com/simoesusp/Processador-ICMC/tree/master/Simple_Simulator e esse para Windows https://github.com/miguel-filippo/Simple_Simulator_Windows/tree/v1.0.0
